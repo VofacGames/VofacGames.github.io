@@ -1,4 +1,4 @@
-*Vofac Games*
+<h1>Vofac Games</h1>
 
 **Privacy Policy**
 
