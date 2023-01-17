@@ -1,3 +1,5 @@
+<h1>Vofac Games</h1>
+
 **Privacy Policy**
 
 GUO LI FENG built the Block Flip app as an Ad Supported app. This SERVICE is provided by GUO LI FENG at no cost and is intended for use as is.
