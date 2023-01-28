@@ -133,3 +133,5 @@ appnexus.com, 13297, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11826, RESELLER
 appnexus.com, 13293, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13227, RESELLER
+telaria.com, 80zxm-3485583, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 80zxm-3485583, RESELLER, 1a4e959a1b50034a
