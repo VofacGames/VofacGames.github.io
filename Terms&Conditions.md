@@ -16,7 +16,7 @@ Link to Terms and Conditions of third-party service providers used by the app
 *   [AdMob](https://developers.google.com/admob/terms)
 *   [Unity](https://unity3d.com/legal/terms-of-service)
 *   [AppLovin](https://www.applovin.com/terms/)
-*   [AppsFlyer](https://www.appsflyer.com/trust/privacy/)
+*   [AppsFlyer](https://www.appsflyer.com/legal/terms-of-use/)
 
 You should be aware that there are certain things that Vofac Games will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but Vofac Games cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 
